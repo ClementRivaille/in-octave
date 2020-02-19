@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content:center;
+	align-items:center;
+  font-family: springsteel;
+  background-color: black;
+}
+
+ @font-face {
+  font-family: springsteel;
+  src: url(../assets/springsteel_light/springsteel-lig.otf);
+}
+
